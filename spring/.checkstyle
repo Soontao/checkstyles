@@ -134,7 +134,7 @@
     <module name="VariableDeclarationUsageDistance"/>
     <module name="CustomImportOrder">
       <property name="customImportOrderRules" value="STATIC###THIRD_PARTY_PACKAGE"/>
-      <property name="sortImportsInGroupAlphabetically" value="true"/>
+      <property name="sortImportsInGroupAlphabetically" value="false"/>
     </module>
     <module name="MethodParamPad"/>
     <module name="ParenPad"/>
